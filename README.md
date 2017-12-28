@@ -25,14 +25,9 @@ younger than Wizard2.
 Sample input: 
 
 4
-
 Harry Hermione Severus Albus
-
 3
-
 Hermione Harry Severus
-
 Severus Harry Albus
-
 Severus Albus Hermione
 
