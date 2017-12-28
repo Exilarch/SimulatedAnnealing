@@ -22,12 +22,12 @@ younger than Wizard2.
 - Each wizard must appear at least once in your constraints.
 
 
-Sample input: 
-
-4
-Harry Hermione Severus Albus
-3
-Hermione Harry Severus
-Severus Harry Albus
-Severus Albus Hermione
+Sample input:   
+  
+4  
+Harry Hermione Severus Albus  
+3  
+Hermione Harry Severus  
+Severus Harry Albus  
+Severus Albus Hermione  
 
